@@ -1,1 +1,1 @@
-# {{cookiecutter.project}}
+# Welcome to {{cookiecutter.project}}
